@@ -1,0 +1,132 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    background-color: #dec1f6;
+
+}
+
+.navBar
+{
+        background-color: #c1d2ce;
+        padding:10px;
+        white-space:nowrap;
+        text-align: center;
+        font-size: 35px;
+        color:black;
+        border-radius: 6px;
+        border-radius: 37px;
+        border-radius: 37px;
+        border-radius: 37px;
+        border-radius: 37px;
+        background: linear-gradient(145deg, #c8aedd, #eecfff);
+        box-shadow:  7px 7px 13px #665971, 
+             -7px -7px 13px #ffffff;
+        
+}
+
+    .navBar img
+    {
+        width:20vw;
+    }
+    
+
+.dropList
+{
+  font-family:"Arial";
+  list-style:none;
+  width:50%;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 20px;
+}
+
+.dropList li
+{
+  font-size:2em;
+}
+
+.dropList span
+{
+  margin-left:10px;
+}
+
+.textPop
+{
+  margin-left:10px;
+  background:#bb88e2;
+  color:black;
+  border-radius:8px;
+  border-radius: 24px;
+  background: linear-gradient(145deg, #a87acb, #c892f2);
+  box-shadow:  8px 8px 23px #5f4573, 
+               -8px -8px 23px #ffcbff;
+  
+}
+.textPop p
+{
+  padding:10px;
+}
+
+
+
+
+
+
+
+span {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.logoLink
+{
+margin-left: 10px;
+padding:30px;
+}
+.logoLink a
+{
+    display: inline;
+    
+}
+.logoLink img
+{
+    width:100%;
+    border-radius: 15px;
+    background: linear-gradient(145deg, #a87acb, #c892f2);
+    box-shadow:  8px 8px 23px #5f4573, 
+                 -8px -8px 23px #ffcbff;
+              
+                width: 5vw;
+                text-align: center;
+                line-height: 10px;
+}
+
+.logoLinkGit
+{
+    margin-right:50px;
+    padding:10px;
+}
+
+.logoLinkGit a 
+{
+    display: inline;
+}
+
+.logoLinkGit img 
+{
+    
+    width:100%;
+    border-radius: 100px;
+    background: linear-gradient(145deg, #a87acb, #c892f2);
+    box-shadow:  8px 8px 23px #5f4573, 
+                 -8px -8px 23px #ffcbff;
+              
+                width: 9vw;
+                text-align: center;
+                line-height: 10px;
+}
